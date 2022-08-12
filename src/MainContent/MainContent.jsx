@@ -12,7 +12,7 @@ function MainContent() {
                 <div class="info">
                     <h1 class="fonts">Monitor your business on real-time dashboard</h1>
                     <h4>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Elementum nisi aliquet volutpat pellentesque volutpat est. Sapien in etiam vitae nibh nunc mattis imperdiet sed nullam. </h4>
-                    <button>Try for free</button>
+                    <a href="https://www.linkedin.com/in/wasim-samnani-871b351a9/"><button>Try for free</button></a>
                 </div>
                 <div className="right_images">
                         <img src={bigImage} alt="Analytics_BigImage" />

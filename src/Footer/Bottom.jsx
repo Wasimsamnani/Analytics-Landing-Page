@@ -14,7 +14,7 @@ function Bottom() {
                 <a href="#">Blog</a>
             </div>
             <div className="icons_bottom">
-                <img  class="socials" src={social} alt="social_icons"/>
+                <a href="https://www.linkedin.com/in/wasim-samnani-871b351a9/"><img  class="socials" src={social} alt="social_icons"/></a>
             </div>
         </div>
     )
