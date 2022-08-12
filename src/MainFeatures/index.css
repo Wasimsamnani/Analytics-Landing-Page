@@ -1,0 +1,63 @@
+.main {
+  text-align: center;
+  margin: auto;
+  margin-top: 5vw;
+  width: 80vw;
+}
+.main h1 {
+  font-weight: 700;
+}
+.main p {
+  font-size: 1.5vw;
+  color: #8794ba;
+  margin: auto;
+  margin-top: 5vw;
+  margin-bottom: 5vw;
+  width: 90%;
+}
+.logoandinfo {
+  width: 80vw;
+  margin: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.icon img {
+  width: 10vw;
+}
+.container h4 {
+  font-weight: 700;
+  color: #172755;
+  margin: 3vw 0vw;
+}
+.container p {
+  margin: auto;
+}
+.main_container {
+  width: 80vw;
+  margin: auto;
+}
+
+.Container_whole {
+  display: flex;
+  justify-content: center;
+  margin-top: 10vw;
+}
+.image_container img {
+  width: 40vw;
+}
+.info_info h1 {
+  width: 16ch;
+  text-align: left;
+  font-size: 3vw;
+}
+.text_font {
+    text-align: left;
+    margin-left: 0vw!important;
+}
+div.main_container div:nth-child(2) {
+   flex-direction: row-reverse;
+  }
+  div.main_container div:nth-child(2) > .info_info{
+    margin-left: 3vw;
+  }

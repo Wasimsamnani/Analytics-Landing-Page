@@ -1,0 +1,46 @@
+.top_backgroundimage {
+  position: absolute;
+  top: 0;
+  z-index: -1;
+}
+
+.top_backgroundimage img {
+  width: 100vw;
+  
+}
+
+.Content {
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 5vw;
+    margin-left: 10vw;
+}
+
+.info{
+    width: 50%;
+}
+.fonts{
+    color: #FFFFFF;
+}
+
+.info button{
+    background: #EF2A82;
+    color:#FFFFFF;
+    font-size: 1vw;
+}
+h4{
+    font-weight: 400;
+    color: #8794BA;
+    font-size: 1.4vw;
+    margin: 4vw 0vw;
+    margin-right: 1vw;
+}
+
+h1{
+    font-size: 4vw;  
+}
+.Content img{
+    height: 35vw;
+}
